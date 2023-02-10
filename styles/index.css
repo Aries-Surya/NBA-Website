@@ -601,6 +601,26 @@ th {
 }
 
 
+.special-hidden6{
+  display: none;
+  transition: all 500ms ease-in-out;
+}
+
+.special-hidden6 a{
+  margin-left: 3%;
+}
+
+
+.show6{
+  display: block;
+}
+
+.change-color6{
+  background-image: linear-gradient(to right, #ffdd00, #ffdd00 50%) !important;
+
+}
+
+
 /* #special:hover .hidden{
   display: block !important;
 } */
