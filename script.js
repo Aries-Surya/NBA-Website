@@ -44,3 +44,10 @@ special5.addEventListener('click', () => {
     hidden5.classList.toggle('show5');
     special5.classList.toggle('change-color5')
 });
+
+const special6 = document.getElementsByClassName('special6')[0];
+const hidden6= document.getElementsByClassName('special-hidden6')[0];
+special6.addEventListener('click', () => {
+    hidden6.classList.toggle('show6');
+    special6.classList.toggle('change-color6')
+});
