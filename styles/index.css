@@ -280,8 +280,7 @@ a:visited {
 }
 
  a{
-  background-image: linear-gradient(to right, #ffdd00, #ffdd00 50%, #00fff7 50%
-  );
+  background-image: linear-gradient(to right, #ffdd00, #ffdd00 50%, #00fff7 50%);
   background-size: 200% 100%;
   background-position: -100%;
   display: inline-block;
